@@ -133,6 +133,3 @@ computer_player = Player(computer_die, is_computer=True)
 
 # Create the game instance
 game = DiceGame(my_player, computer_player)
-
-# Start the game logic
-game.play()
